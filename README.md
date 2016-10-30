@@ -1,2 +1,3 @@
 # Git-Practice
-This is an exercise for Practicing basics of git.
+
+This is an exercise for practicing basics of git.
